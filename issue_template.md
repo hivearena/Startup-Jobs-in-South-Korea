@@ -1,3 +1,5 @@
+## Overview
+
 ## Job Description
 Position name 
 
@@ -13,27 +15,28 @@ i.e Remote or On-site, office in Seoul - Gangnam area
 List of things that company provides
 
 * flexible working hours
-* salary\shares
+* salary/shares
 * visa support
-* pc or mac
+* pc or Macs
+* others
 
 ## Requirements
 
 List of things that company is looking for
 
 ### Required:
-* Proficency in XXX JavaSctipt, NodeJS, Java, etc
-* 2 years experience with YYY
+* knowledge of Android SDK, JavaSctipt, NodeJS, Java, etc
+* 2 years experience with XXX
 * ...
 
 ### Desirable:
-* Knowledge of functional programming
-* Knowledge of relational database
+* Experience building custom UI
+* Knowledge of Business Development
 * ...
 
 ## About a company
 
-ZZZ Corporation is the ...
+Our company is the ...
 
 ## How to apply
 
