@@ -14,27 +14,27 @@ List of things that company provides
 
 * flexible working hours
 * salary\shares
+* visa support
+* pc or mac
 
-*visa support
-*pc or mac
-*Requirements
+## Requirements
 
 List of things that company is looking for
 
-Required:
+### Required:
+* Proficency in XXX JavaSctipt, NodeJS, Java, etc
+* 2 years experience with YYY
+* ...
 
-Proficency in XXX JavaSctipt, NodeJS, Java, etc
-2 years experience with YYY
-...
-Desirable:
+### Desirable:
+* Knowledge of functional programming
+* Knowledge of relational database
+* ...
 
-Knowledge of functional programming
-Knowledge of relational database
-...
-About a company
+## About a company
 
 ZZZ Corporation is the ...
 
-How to apply
+## How to apply
 
 Please send an email to foo at bar.com with your CV attached and subject:[SeoulTech] Software engineer position
