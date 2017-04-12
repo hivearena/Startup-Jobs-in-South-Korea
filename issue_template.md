@@ -1,5 +1,3 @@
-## Overview
-
 ## Job Description
 Position name 
 
@@ -37,6 +35,10 @@ List of things that company is looking for
 ## About a company
 
 Our company is the ...
+
+## Company information
+
+i.e Website, Facebook, Twitter, Linkedin, etc..
 
 ## How to apply
 
