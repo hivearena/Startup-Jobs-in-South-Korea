@@ -37,6 +37,6 @@ ZZZ Corporation is the ...
 
 ## How to apply
 
-Please send an email to example at example.com with your CV attached and subject:
+Please send an email to example@example.com with your CV attached and subject:
 
-```[SeoulTech] Software engineer position```
+```[HiveArena] Software engineer position```
