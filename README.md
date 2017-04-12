@@ -1,2 +1,2 @@
-# startup-jobs-in-Seoul
-A list of companies want to hire foreigners in South Korea 
+# Startup-Jobs-in-South Korea
+A list of companies want to hire foreigners and locals in South Korea. 
