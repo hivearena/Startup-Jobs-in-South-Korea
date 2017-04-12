@@ -12,9 +12,9 @@ i.e Remote or On-site, office in Seoul - Gangnam area
 
 List of things that company provides
 
-*flexible working hours
+* flexible working hours
 
-*salary\shares
+* salary\shares
 
 *visa support
 *pc or mac
