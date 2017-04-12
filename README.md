@@ -7,7 +7,7 @@ List available at [https://github.com/hivearena/startup-jobs-in-South-Korea/issu
 
 Open an issue and, in the title of the issue put the city name in brackets followed by a position name, followed by dash charectar and a company name.
 
-Example: [Seoul] Community Manager - Hive Arena
+Example: ```[Seoul] Community Manager - Hive Arena```
 
 Add labels with field and work environment: 
 
