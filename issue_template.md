@@ -1,20 +1,22 @@
 ## Job Description
 Position name 
+
 i.e Front-end Deveoper or Business Development
 
 ## Location
 Location name
+
 i.e Remote or On-site, office in Seoul - Gangnam area
 
-Benefits
+## Benefits
 
 List of things that company provides
 
-flexible working hours
-salary\shares
-visa support
-pc or mac
-Requirements
+*flexible working hours
+*salary\shares
+*visa support
+*pc or mac
+*Requirements
 
 List of things that company is looking for
 
