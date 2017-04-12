@@ -14,3 +14,8 @@ Add labels with field and work environment:
 Education, Engineering, Human Reseources, Marketing, Product, Sales or Support
 
 On-site or Remote
+
+<h2>Important<h2>
+
+To prevent possible candidates from sending CV to the vacancies that are already filled, we kindly ask those who post the issue to close it as soon as possible after it's done.
+
