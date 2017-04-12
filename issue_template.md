@@ -13,7 +13,9 @@ i.e Remote or On-site, office in Seoul - Gangnam area
 List of things that company provides
 
 *flexible working hours
+
 *salary\shares
+
 *visa support
 *pc or mac
 *Requirements
