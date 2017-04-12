@@ -37,4 +37,5 @@ ZZZ Corporation is the ...
 
 ## How to apply
 
-Please send an email to foo at bar.com with your CV attached and subject:[SeoulTech] Software engineer position
+Please send an email to xxx@bar.com with your CV attached and subject:
+```[SeoulTech] Software engineer position```
