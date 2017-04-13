@@ -27,5 +27,5 @@ To prevent possible candidates from sending CV to the vacancies that are already
 
 Hello, Everyone. 
 
-We would like to connect foreign startup from abroad with local techies when we are running our coworking space. Because we want to build a huge tech coworking community based on Seoul, South Korea. If you want to hire korean people, please make a issue in this github. And we will share your position to korean people.  
+We would like to connect foreign startup from abroad with local techies when we are running our coworking space [http://en.hivearena.com]Hive Arena. Because we want to build a huge tech coworking community based on Seoul, South Korea. If you want to hire korean people, please make a issue in this github. And we will share your position to korean people.  
 
