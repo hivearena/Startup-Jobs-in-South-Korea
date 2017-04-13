@@ -1,7 +1,5 @@
 ## Job Description
-Position name 
-
-i.e Front-end Deveoper or Business Development
+blahblah....
 
 ## Location
 Location name
@@ -42,6 +40,4 @@ i.e Website, Facebook, Twitter, Linkedin, etc..
 
 ## How to apply
 
-Please send an email to example@example.com with your CV attached and subject:
-
-```[HiveArena] Software engineer position```
+Please send an email to example@example.com with your CV attached and subject:```[HiveArena] Software engineer position```
