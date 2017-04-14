@@ -1,6 +1,9 @@
 ## Job Description
 blahblah....
 
+## Responsibilities
+blahblah....
+
 ## Location
 Location name
 
