@@ -2,7 +2,8 @@
 blahblah....
 
 ### Responsibilities
-blahblah....
+* Work with Project Manager to translate feature to stories
+* Work with Server Engineers to define APIs
 
 ## Location
 Location name
