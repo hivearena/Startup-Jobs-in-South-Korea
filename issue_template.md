@@ -1,7 +1,7 @@
 ## Job Description
 blahblah....
 
-## Responsibilities
+### Responsibilities
 blahblah....
 
 ## Location
